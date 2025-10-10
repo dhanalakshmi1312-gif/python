@@ -1,0 +1,12 @@
+subject1=int(input("enter your english mark"))
+subject2=int(input("enter your tamil mark"))
+subject3=int(input("enter your maths mark"))
+subject4=int(input("enter your science mark"))
+subject5=int(input("enter your social mark"))
+print("english mark :",subject1)
+print("tamil mark :",subject2)
+print("maths mark :",subject3)
+print("science mark :",subject4)
+print("social mark :",subject5)
+total = subject1 + subject2 + subject3 + subject4 + subject5
+print("total :", total)
