@@ -1,6 +1,0 @@
-print("\n triangle")
-l=float(input("enter the length value"))
-b=float(input("enter the breadth value"))
-h=float(input("enter the height value"))
-area=1/2 *(l*b*h)
-print("the result is :",area)
