@@ -1,0 +1,11 @@
+print("\n   set into string  ")
+a=set()
+b=int(input("enter the count of the values:"))
+for i in range(b):
+ c=input("enter the values:")
+ a.add(c)
+ print(a)
+ print("\n   set into string  ")
+ d=' '.join(a)
+print("the conversion of set into string:",d)
+    
